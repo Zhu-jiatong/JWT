@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JWT", "JWT.vcxitems", "{32B1D238-1178-4620-A0AD-5EA278FE0F53}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicTest", "examples\BasicTest\BasicTest.vcxproj", "{065DB2EB-8726-4DE1-B528-EE851F443F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Debug|ARM.ActiveCfg = Debug|ARM
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Debug|ARM.Build.0 = Debug|ARM
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Debug|ARM.Deploy.0 = Debug|ARM
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Debug|ARM64.Build.0 = Debug|ARM64
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Debug|x64.ActiveCfg = Debug|x64
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Debug|x64.Build.0 = Debug|x64
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Debug|x64.Deploy.0 = Debug|x64
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Debug|x86.ActiveCfg = Debug|x86
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Debug|x86.Build.0 = Debug|x86
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Debug|x86.Deploy.0 = Debug|x86
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Release|ARM.ActiveCfg = Release|ARM
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Release|ARM.Build.0 = Release|ARM
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Release|ARM.Deploy.0 = Release|ARM
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Release|ARM64.ActiveCfg = Release|ARM64
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Release|ARM64.Build.0 = Release|ARM64
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Release|ARM64.Deploy.0 = Release|ARM64
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Release|x64.ActiveCfg = Release|x64
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Release|x64.Build.0 = Release|x64
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Release|x64.Deploy.0 = Release|x64
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Release|x86.ActiveCfg = Release|x86
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Release|x86.Build.0 = Release|x86
+		{065DB2EB-8726-4DE1-B528-EE851F443F22}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C97B0E25-1A8E-4AA8-9D5E-8E85A2B11737}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		JWT.vcxitems*{065db2eb-8726-4de1-b528-ee851f443f22}*SharedItemsImports = 4
+		JWT.vcxitems*{32b1d238-1178-4620-a0ad-5ea278fe0f53}*SharedItemsImports = 9
+	EndGlobalSection
+EndGlobal
